@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "number-guessing-game",
+      "title": "Number Guessing Game",
+      "description": "Build an interactive guessing game with loops, conditionals, and user input",
+      "path": "assignments/number-guessing-game",
+      "dueDate": "2026-02-04",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
